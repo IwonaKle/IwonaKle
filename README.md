@@ -20,6 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <p align="left"> <a href="https://www.atlassian.com/pl/software/jira" target="_blank" rel="noreferrer"> <img src="https://codefortynine.com/wp-content/uploads/2020/10/Jira_Confluence_Logos_701x175.png)" alt="jira" width="160" height="80"/> 
 <a href="https://trello.com/home" target="_blank" rel="noreferrer"> <img src="https://marcas-logos.net/wp-content/uploads/2022/07/Trello-logo.png" alt="trello" width="60" height="80"/> </a> </a>
    <p align="left"> <a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="https://uploads-ssl.webflow.com/5f1a8e281bd3433d5faa74f8/5f239a8012d14b911a3439ac_TestRail.png" alt="testrail" width="60" height="40"/> </a> <a href="https://testlink.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.2_i7lOATR2Jl3j_hlttKfAHaDa?pid=ImgDet&rs=1" alt="testlink" width="100" height="70"/> </a>
